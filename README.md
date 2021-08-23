@@ -42,10 +42,8 @@ Run Menu Program
 python3 main.py
 ```
 
-<center>
-<img src=".media/localmenu.png" alt="Local Menu Screen" width="50%"><img src=".media/remotemenu.png" alt="Remote Menu Screen" width="50%">
-<img src=".media/remoteconn.png" alt="Remote Connection Screen" width="50%"><img src=".media/dockermenu.png" alt="Docker Menu Screen" width="50%">
-</center>
+<img src=".media/localmenu.png" alt="Local Menu Screen" width="49%"><img src=".media/remotemenu.png" alt="Remote Menu Screen" width="49%">
+<img src=".media/remoteconn.png" alt="Remote Connection Screen" width="49%"><img src=".media/dockermenu.png" alt="Docker Menu Screen" width="49%">
 
 <hr>
 
