@@ -59,7 +59,7 @@ python3 main.py
 
 ## **☎️ Contact**
 
-[Click here for Video and Post](https://www.linkedin.com/in/amanjhagrolia143)
+[Click here for Video and Post](https://www.linkedin.com/posts/amanjhagrolia143_righteducation-rightmentor-educationredefine-activity-6835453227710865408-guAn)
   
 ***Feel free to Contact if any issue!!***
 
